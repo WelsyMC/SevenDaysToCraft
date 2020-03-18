@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sevendaystocraft",
+  "name": "7 Days To Craft",
+  "description": "Mod for having fun :D",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["WelsyMC"],
+  "credits": "7 Days to die for ideas",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
